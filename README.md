@@ -37,7 +37,7 @@ Für ein normales Hochzählen der Anzeige muss die Drehrichtung **negativ** sein
 Zum manuellen Zurücksetzen:
 
 1. Das große seitliche Rad im **Uhrzeigersinn** drehen.
-2. Weiterdrehen, bis der vordere Taster im Tal (Vertiefung) steht.
+2. Weiterdrehen, bis der vordere Taster im Tal (Vertiefung) steht. (Taster im Tal = Braun-Schwarz -> Durchgang)
 3. Danach befindet sich die Anzeige in der Referenzposition.
 
 ## Wichtige Kennwerte
